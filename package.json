@@ -1,0 +1,20 @@
+{
+  "name": "twf_project",
+  "version": "1.0.0",
+  "description": "Simple movie search application for university front-end course",
+  "main": "script.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihai-petre/twf_project.git"
+  },
+  "author": "Mihai-Ionut Petre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihai-petre/twf_project/issues"
+  },
+  "homepage": "https://github.com/mihai-petre/twf_project#readme",
+  "dependencies": {}
+}
